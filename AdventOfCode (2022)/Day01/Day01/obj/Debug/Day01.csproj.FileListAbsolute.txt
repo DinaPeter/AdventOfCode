@@ -1,0 +1,7 @@
+C:\Users\dinam\source\repos\Day01\Day01\bin\Debug\Day01.exe.config
+C:\Users\dinam\source\repos\Day01\Day01\bin\Debug\Day01.exe
+C:\Users\dinam\source\repos\Day01\Day01\bin\Debug\Day01.pdb
+C:\Users\dinam\source\repos\Day01\Day01\obj\Debug\Day01.csproj.AssemblyReference.cache
+C:\Users\dinam\source\repos\Day01\Day01\obj\Debug\Day01.csproj.CoreCompileInputs.cache
+C:\Users\dinam\source\repos\Day01\Day01\obj\Debug\Day01.exe
+C:\Users\dinam\source\repos\Day01\Day01\obj\Debug\Day01.pdb
